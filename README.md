@@ -1,4 +1,5 @@
-# lottery_app
+# lottery_app in Flutter
+![Screenshot 2023-08-14 151729](https://github.com/sunil98660/lottery_app/assets/142016488/89955e78-4620-4b92-bc0f-064b605eed68)
 
 A new Flutter project.
 
